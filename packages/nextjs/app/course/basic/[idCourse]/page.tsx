@@ -23,7 +23,7 @@ const Page = () => {
   const [isModalOpen, setIsModalOpen] = useState(false);
   const { targetNetwork } = useTargetNetwork();
   let contractName: any = "CriptoAventura";
-  if (targetNetwork.name !== "sepolia") {
+  if (targetNetwork.name === "sepolia") {
     contractName = "CriptoAventuraENS";
   }
   const { writeContractAsync: mintNFTAsync } = useScaffoldWriteContract(contractName);
