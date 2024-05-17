@@ -1,11 +1,9 @@
-# L3arning Web3
+# Cripto Aventura Scroll Latam
 
 <h4 align="center">
-  <a href="https://l3arning-web3-arbitrum.vercel.app">Landing page</a>
+  <a href="https://aventura-web3-scroll.vercel.app/">Landing page</a>
 </h4>
 
-## Smart Contract
+## Contrato deployado en scroll
 
-### ScrollSepolia
-
-- [CriptoAventura.sol](https://sepolia.scrollscan.com/address/0xbd24709AD561e49291DF8CAaC214d2923fA41d1c)
+https://sepolia.scrollscan.com/address/0xd00fAc1C3292213f6a2471d6bA97e4Ac28f5961c
