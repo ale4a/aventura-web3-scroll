@@ -1,9 +1,11 @@
 # Cripto Aventura Scroll Latam
 
-<h4 align="center">
+## 🌐 Landing Page
+
+<h4>
   <a href="https://aventura-web3-scroll.vercel.app/">Landing page</a>
 </h4>
 
-## Contrato deployado en scroll
+## 📜 Deployed Contract on Scroll
 
-https://sepolia.scrollscan.com/address/0xd00fAc1C3292213f6a2471d6bA97e4Ac28f5961c
+- [Scroll Sepolia Contract](https://sepolia.scrollscan.com/address/0xd00fAc1C3292213f6a2471d6bA97e4Ac28f5961c)
